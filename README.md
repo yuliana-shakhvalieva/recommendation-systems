@@ -1,2 +1,10 @@
-# recommendation-systems
-Homeworks on discipline "Recommendation systems".
+## recommendation-systems
+
+Домашние работы по дисциплине "Рекомендательные системы".
+
+### Описание:
++ homework_1 - линейная модель (логистическая регрессия).
+
+### Рабочий репозиторий:
+
+В этом репозитории представлено аккуратное оформление домашних заданий. Сами задания выполнялись [здесь](https://github.com/yuliana-shakhvalieva/recsys_course_homework_2023/).
